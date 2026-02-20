@@ -5,6 +5,9 @@
 [submodule "EpiReport"]
 	path = EpiReport
 	url = https://github.com/epiconcept-paris/epireport
+[submodule "ervissexplore"]
+	path = ervissexplore
+	url = https://github.com/epiconcept-paris/ervissexplore
 [submodule "vaccinationimpact"]
 	path = vaccinationimpact
 	url = https://github.com/epiconcept-paris/vaccinationimpact
